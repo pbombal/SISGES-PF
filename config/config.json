@@ -1,0 +1,5 @@
+{
+    "api_base_url": "https://sistemas.sence.cl/sipfor/Planes",
+    "descarga_dir": "data/planes_descargados",
+    "cat\u00e1logo_path": "data/catalogo_original.xlsx"
+}

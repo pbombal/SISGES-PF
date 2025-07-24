@@ -1,0 +1,29 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Archivos ZIP o empaquetados
+*.zip
+
+# Descargas de PDF (pueden regenerarse)
+data/planes_formativos/*
+!data/planes_formativos/.keep
+
+# Archivos temporales de Excel
+~$*.xlsx
+
+# Carpetas vacías reservadas
+!.gitkeep
+!.keep
